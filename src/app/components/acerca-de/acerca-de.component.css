@@ -1,0 +1,18 @@
+#perfil{
+    height: 300px;
+    border-radius: 25px 25px 25px 25px ;
+}
+.row{
+    padding: 20px;
+}
+div{
+    text-align: center;
+    background-color: #a1b5cb ;
+}
+#nombre{
+    font-weight: bold;
+    font-size:200% ;
+    margin-top: 5%;
+    margin-left: 10px;
+
+}
